@@ -28,7 +28,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Medio ambiente | Innexistente |  *[Repositorio](https://github.com/opencitydata/medio-ambiente-calidad-agua)*   |  *[Generar issue](https://github.com/opencitydata/medio-ambiente-calidad-agua/issues)*   | Vocabulario para ver la calidad del aire.  | |  |  |   |  |
+| Medio ambiente | Inexistente |  *[Repositorio](https://github.com/opencitydata/medio-ambiente-calidad-agua)*   |  *[Generar issue](https://github.com/opencitydata/medio-ambiente-calidad-agua/issues)*   | Vocabulario para ver la calidad del aire.  | |  |  |   |  |
  
  
   
